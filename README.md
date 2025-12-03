@@ -1,4 +1,4 @@
-
+![Asynchronous FIFO Banner](assets/Async_fifo.png)
 # 🗂️ Asynchronous FIFO Design and Verification
 
 ## 📌 Project Overview
